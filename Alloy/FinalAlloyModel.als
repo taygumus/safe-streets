@@ -90,7 +90,7 @@ one sig  StatAdvanced extends Statistic {
 
 // Statistic that refers to advanced functionality 2
 
-one sig  TIStatistics extends Statistic {
+one sig TIStatistics extends Statistic {
 	accessibility: some PA
 }
 
@@ -264,7 +264,6 @@ pred advancedFunction2 {
 }
 
 // Generate Advanced Function1 world
-
 pred advancedFunction1 {
 	#Violation =3
 	#UnsafeArea = 1
@@ -273,6 +272,6 @@ pred advancedFunction1 {
 	#Location = 2
 }
 
-run   basicService for 6
-run  advancedFunction1 for 8
+run basicService for 6
+run advancedFunction1 for 8
 run advancedFunction2 for 6
