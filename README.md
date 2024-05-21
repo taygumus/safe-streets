@@ -1,14 +1,9 @@
 # SafeStreets Project
 
 ## General Purpose
-SafeStreets is a crowdsourced application where citizens can report traffic violations to
-authorities along with pictures and relative informations about the infractions. After their
-validation, if it's requested, the system provides the possibility to analyze the collected data,
-based on the role of the final user.  
-In addiction, SafeStreets can cross its informations with the ones provided by the
-municipality and suggest reasonable interventions for unsafe areas. Then it can also supply
-public authorities, such as the local police, with data in order to generate traffic tickets from them. Finally it elaborates statistics on different layers showing the effectiveness of
-SafeStreets and its impact on the community.
+
+SafeStreets is a crowdsourced application where citizens can report traffic violations to authorities along with pictures and relevant information about the infractions. After validation, if requested, the system provides the possibility to analyze the collected data based on the role of the final user.  
+In addition, SafeStreets can cross-reference its information with data provided by the municipality and suggest reasonable interventions for unsafe areas. It can also supply public authorities, such as the local police, with data to generate traffic tickets. Finally, it elaborates statistics on different layers to show the effectiveness of SafeStreets and its impact on the community.
 
 ## Documentation
 
