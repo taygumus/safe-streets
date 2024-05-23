@@ -17,6 +17,6 @@ The project documentation is structured into two main parts:
 
 - **Alloy**: Utilized as a declarative specification language. Alloy models are analyzed using [Alloy Analyzer](https://alloytools.org).
 
-- **UML**: Used for creating various diagrams for analysis. UML diagrams are created with [StarUML](https://staruml.io/).
+- **UML**: Used for producing various diagrams for analysis. UML diagrams are generated with [StarUML](https://staruml.io/).
 
 Details about Alloy models and UML diagrams present in the documentation can be found in their respective folders.
